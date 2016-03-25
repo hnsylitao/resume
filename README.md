@@ -39,7 +39,7 @@
 ## 个人作品
 
 ### [斑马](http://zibr.cn/)
-APP下载地址：http://zibr.cn/App
+项目地址：http://zibr.cn/
 
 - 简介
   + 斑马是一个海外留学案例平台，同时具有Android、IOS和PC端。项目采取了MVC框架
@@ -49,7 +49,6 @@ APP下载地址：http://zibr.cn/App
   + 在本项目中，后端接口开发一职。在这个项目中，充分认识到了后端架构的重要性。
 
 ### [斑马APP](http://zibr.cn/App)
-APP下载地址：http://zibr.cn/App
 
 - 简介
   + 斑马是一个海外留学案例，社区分享平台
@@ -76,4 +75,4 @@ APP下载地址：http://zibr.cn/App
 
 ## 自我简介
 
-酷爱学习新技术
+我相信一个金牌团队。看重是绝对的实力着 而非后期的学历着
