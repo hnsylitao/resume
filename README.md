@@ -25,26 +25,8 @@
 ## 技术能力
 
 专注并且热爱web开发，熟练掌握Node、ASP.Net、JavaScript、HTMl、CSS来搭建web应用。了解从需求分析到软件上线的实际过程,喜爱钻研新技术、新理念、新框架。
-* 熟练的JavaScript类库：jQuery
-* 掌握的JavaScript框架：Angular.js
-* 熟练的框架：Appframework Easyui React SeaJs
-* 掌握项目管理和协同工具的使用：Git、TFS
-* 熟练基本后端开发：Asp.Net
-* 掌握基本后端开发：JAVA 、 PHP
-* 掌握web相关技术：SQLServer、Mysql、Nginx、Apache、网站集群等
 
-##个人经历
-
-* 2013年进入宁波青软学习
-* S1 接触 C# HTML CSS SQLServer
-* S2 接触 JAVA Oracle Jquery
-* 2014年报考宁波工程学院-2016年毕业
-* 2014年在宁波精正电子 担任全栈开发
-* 2016年在杭州简学科技 担任前端开发 工作
-
-## 个人技能
-
-* JS:React、Jquery、EasyUI、ECMAScript6、SeaJS、BootStrap、AngularJS
+* JavaScript:React、Jquery、EasyUI、ECMAScript6、SeaJS、BootStrap、AngularJS
 * CSS:Less、Sass、Autoprefixer
 * HTML:HTML4、HTML5
 * 自动化工具:Webpack、Gulp
@@ -52,6 +34,15 @@
 * 数据库:MYSQL、MSSQL、Oracle(了解)
 * 服务器:Linux、Windows Server、Apache、Nginx、IIS
 * 团队协同:Git、TFS
+
+##个人经历
+
+* 2013年进入宁波青软学习
+* S1 接触 C# HTML CSS SQLServer
+* S2 接触 JAVA Oracle Jquery
+* 2014年报考宁波工程学院-2016年毕业（函授大专）
+* 2014年-2016年 在宁波精正电子 担任全栈开发
+* 2016年-至今 在杭州简学科技 担任前端开发
 
 ## 自我简介
 我是一个充满活力、对WEB开发由衷热爱、善于发现问题的工程师。
