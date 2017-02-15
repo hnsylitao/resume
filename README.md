@@ -34,6 +34,7 @@
 
 ## 技术能力
 专注并且热爱web开发，熟练掌握Node、ASP.Net、JavaScript、HTMl、CSS来搭建web应用。了解从需求分析到软件上线的实际过程,喜爱钻研新技术、新理念、新框架。
+
 * JavaScript:React、Jquery、EasyUI、ECMAScript6、SeaJS、BootStrap、AngularJS
 * CSS:Less、Sass、Autoprefixer
 * HTML:HTML4、HTML5
